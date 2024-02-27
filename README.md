@@ -13,5 +13,6 @@ Display countdown form 10 to 1 on the screen and then display Happy Independence
 <h3>How do I submit my work?</h3>
 <ul>
   <li>Deploy my web application in nelify</li>
-  <li>Push all your URl in the portal</li>
+  <li>Push all your work files to GitHub</li>
+  <li>Submit all my URl in the portal</li>
 </ul>
