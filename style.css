@@ -1,9 +1,13 @@
 body{
     background-image: url('image.jpeg');
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
 }
 h1{
     text-align: center;
-    margin-top: 400px;
+    margin-top: 250px;
     font-size: 100px;
     color:whitesmoke
     }
